@@ -1,0 +1,2 @@
+class InvalidCSVException(Exception):
+    pass
